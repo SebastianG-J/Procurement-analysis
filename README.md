@@ -26,7 +26,7 @@ This project provides tools and analysis for:
 
 ### 3. Web Scraping Automation
 - Automated product specification collection
-- Specialized roll-based product data extraction
+- Specialized coil-based product data extraction
 - Data combination and merging utilities
 
 ## 🛠️ Technical Requirements
